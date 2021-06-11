@@ -1,18 +1,16 @@
 # Pewlett-Hackard-Analysis
 
-Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis: 
 In this analysis I have determined the number of retiring employees by titles and identified any retiring employees that are eligible for the mentorship program. 
 
-Results: Provide a bulleted list with four major points from the two analysis deliverables. 
-Use images as support where needed.
+## Results:
 
 1. Senior engineers and staff makes up a huge number of titles getting ready to retire. This leaves the question of wanting to promote from within or hire people from the outside. 
 2. A single employee can have several promotions leading to retirement. We want to make sure that we have the right position retiring because this can lead to discrepancies in staffing. 
 3. The unique titles table shows every employee with the current retiring title. Over 40,000 titles in the retirement title table are duplicate employee numbers. 
 4. In the retiring titles table, a total of 90398 titles will have a vacant spot but only 1549 employees qualify for the mentorship program.
 
-Summary: Provide high-level responses to the following questions, 
-then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+## Summary:
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 90398 titles will be retiring. Below is the count of all the titles that will be retiring. 
