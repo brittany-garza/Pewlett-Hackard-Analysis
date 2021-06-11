@@ -13,10 +13,15 @@ In this analysis I have determined the number of retiring employees by titles an
 ## Summary:
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-90398 titles will be retiring. Below is the count of all the titles that will be retiring. 
+90398 titles from various departments will be retiring. 
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-Each mentor will have a group of about 60 new employees. This will be difficult for the mentors to divide their time between each employee
+Each mentor will have a group of about 60 new employees. This will be difficult for the mentors to divide their time between each employee.
 
-Since there is not enough retired employees to be a mentor to new employees, I figured we can use current employees as mentors. I used the first query to create a table of employees 
-that have not retired. Next, I queried the number of titles by department. Now we can pair a new employee with an experienced PH employee in the right department.  
+Since there is not enough retired employees to be a mentor to new employees, I figured we can use current employees as mentors. I used the first query to create a table of employees that have not retired starting wiht the hire year of 1990. 
+
+![SQL_query](https://user-images.githubusercontent.com/82127584/121625531-408f1e80-ca39-11eb-8db5-02015a6bb3a4.PNG)
+
+Next, I queried the number of titles by department. Now we can pair a new employee with an experienced PH employee in the right department.  
+
+![SQL_query2](https://user-images.githubusercontent.com/82127584/121625542-42f17880-ca39-11eb-9675-0abdea739050.PNG)
